@@ -1,9 +1,9 @@
-# rio-octobot
+# rio-iceshield
 6 Axis LinuxCNC-RIO Raspberry-PI FPGA-Hat - kicad project
 
 experimental - not tested yet
 
-![rio-octobot](./rio-octobot.png)
+![rio-iceshield](./rio-iceshield.png)
 
 ## software / gateware
 https://github.com/multigcs/riocore
