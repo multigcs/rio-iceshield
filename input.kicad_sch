@@ -333,10 +333,10 @@
     (property "Datasheet" "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" (at 124.46 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 0cd944c1-055d-49cd-acf5-13cf5104476a))
-    (pin "2" (uuid 6577be6e-9edd-4ed0-93de-2e67e554b080))
-    (pin "3" (uuid 31609920-21b5-4b2c-be10-c2cfbb6683f8))
-    (pin "4" (uuid 92af4185-370a-41f1-b923-80074a6d4ffa))
+    (pin "1" (uuid 3fcb7242-ab14-4019-b366-8d703ba00227))
+    (pin "2" (uuid 16ea9db1-d7e1-439c-8278-fde131d88d92))
+    (pin "3" (uuid 22e761a0-33d8-41c1-b44c-065f27d67434))
+    (pin "4" (uuid 151192ba-479c-4fc6-9034-49b00fb9e748))
     (instances
       (project "riowerks"
         (path "/c4675d0b-5c1c-444a-a1ef-26bf66f46aa5/77b70234-a638-4cba-af0b-c8e26a05632f"
@@ -408,9 +408,9 @@
     (property "Datasheet" "~" (at 149.86 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d2ffa826-9cbe-4e47-b8b8-0b0c05cf5e1e))
-    (pin "2" (uuid 3b74fbad-3691-4543-8daf-f20a88bfcc13))
-    (pin "3" (uuid a4f9cb82-890c-462c-8935-2f81fa6ee2c1))
+    (pin "1" (uuid 4ad87701-c952-468a-b896-1ca5fc8b27af))
+    (pin "2" (uuid d5a80126-1f7b-47b9-b23b-2e2732bde188))
+    (pin "3" (uuid d536c917-0a13-4360-be5f-c5a70218a419))
     (instances
       (project "riowerks"
         (path "/c4675d0b-5c1c-444a-a1ef-26bf66f46aa5/cda04744-3ce8-4a6b-a82d-a1325fcc2daa"
@@ -482,8 +482,8 @@
     (property "Datasheet" "~" (at 135.89 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 233e2b64-ed2e-4f8c-bef6-8e5dcc3d9043))
-    (pin "2" (uuid 2b552aff-a632-47f9-b994-23973c72a72b))
+    (pin "1" (uuid 4eb12db5-daec-4493-b92c-9362f3462145))
+    (pin "2" (uuid 13eee568-73a2-414c-be59-6b7034b7af13))
     (instances
       (project "riowerks"
         (path "/c4675d0b-5c1c-444a-a1ef-26bf66f46aa5/77b70234-a638-4cba-af0b-c8e26a05632f"
